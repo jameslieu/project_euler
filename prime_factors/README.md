@@ -1,0 +1,1 @@
+Get the prime factors of a positive integer number.
